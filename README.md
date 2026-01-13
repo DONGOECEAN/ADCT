@@ -8,3 +8,4 @@ The code to generate Abutting Grating Distortion can be found in "utils/abutting
 The following files generate samples of AG distortion
 AG-MNIST : 1_visualize_mnist28.py
 high-resolution AG-MNIST : 2_visualize_mnist224.py
+The code for training, validation, and testing the model is located at: AMP_train_val_test_dp.py
